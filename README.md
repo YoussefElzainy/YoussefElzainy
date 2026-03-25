@@ -1,43 +1,88 @@
-# Hi, I'm youssef elzainy
+# 👋 Hi, I'm Youssef Elzainy
 
-I'm an Embedded Systems & Electronics enthusiast with a strong foundation in AVR microcontrollers, digital logic, and Verilog design. I love building practical projects that bridge hardware and software, from traffic light systems to secure smart locks.  
-
----
-
-## Skills & Technologies
-- **Languages:** C, C++, java, Verilog
-- **Designs:** Digital logic, Traffic lights, Memory systems
+I'm an **Embedded Systems & Electronics Engineer** with a strong foundation in AVR microcontrollers, digital logic design, and Verilog HDL. I'm passionate about building innovative hardware-software solutions, from autonomous systems to smart embedded devices that solve real-world problems.
 
 ---
 
-## 🚀 Projects
+## 💻 Skills & Technologies
 
-### [simple-calculator-AVR](https://github.com/your-username/simple-calculator-AVR)
+### **Programming Languages**
+- **Microcontroller Programming:** C, C++
+- **Hardware Description:** Verilog, SystemVerilog
+- **General Purpose:** Java, Python
+- **Web & Other:** HTML, CSS, JavaScript
+
+### **Microcontroller & Platforms**
+- ATmega32A, ATmega328P
+- ARM-based controllers
+- Arduino ecosystem
+
+### **Hardware & Design**
+- **Digital Logic Design** - Combinational and sequential logic circuits
+- **Memory Systems** - FIFO, RAM, ROM implementations
+- **Sensor Integration** - ADC, timers, interrupts
+- **Motor Control & Robotics** - DC motors, servo control, PWM
+- **Communication Protocols** - UART, SPI, I2C
+- **Circuit Design & Analysis**
+
+### **Tools & Software**
+- **Simulation & Design:** Proteus, Multisim, ModelSim
+- **IDEs:** CodeVision AVR, Atmel Studio, VS Code
+- **Hardware Programming:** AVR Programmer, AVRDUDE
+- **Version Control:** Git, GitHub
+- **CAD & Schematics:** Circuit design software
+
+---
+
+## 🚀 Featured Projects
+
+### [Simple-Calculator-AVR](https://github.com/YoussefElzainy/simple-calculator-AVR)
 AVR-based Calculator using LCD and Keypad. Implements basic arithmetic operations with a clean hardware interface.  
-**Language:** C
+**Language:** C | **Microcontroller:** ATmega32A
 
-### [Smart-Lock-System-AVR-based-embedded-project](https://github.com/your-username/Smart-Lock-System-AVR-based-embedded-project)
-Developed a secure smart lock system with AVR microcontroller. Users enter passwords via a keypad and receive feedback on an LCD.  
-**Language:** C
+### [Smart-Lock-System-AVR-based-embedded-project](https://github.com/YoussefElzainy/Smart-Lock-System-AVR-based-embedded-project)
+Developed a secure smart lock system with AVR microcontroller. Users enter passwords via a keypad and receive real-time feedback on an LCD display.  
+**Language:** C | **Features:** Password authentication, Access control
 
-### [traffic-light-using-ICs](https://github.com/your-username/traffic-light-using-ICs)
+### [Traffic-Light-using-ICs](https://github.com/YoussefElzainy/traffic-light-using-ICs)
 Simple traffic light system using combinational and sequential logic. Mimics real-world traffic timing with basic hardware components — no microcontrollers involved.  
-**Language:** C
+**Language:** C | **Focus:** Digital logic design
 
-### [AVR-Traffic-light](https://github.com/your-username/AVR-Traffic-light)
+### [AVR-Traffic-Light](https://github.com/YoussefElzainy/AVR-Traffic-light)
 Traffic light simulation using ATmega32A. Controls LEDs in a realistic sequence with countdown display. Includes schematics, source code, and HEX file for easy replication.  
-**Language:** C
+**Language:** C | **Microcontroller:** ATmega32A
 
-### [Lane-Keeper-Obstacle-Avoidance-Car-AVR-Based](https://github.com/your-username/Lane-Keeper-Obstacle-Avoidance-Car-AVR-Based)
-AVR-based autonomous car project featuring lane-keeping and obstacle avoidance using sensors and motor control.  
-**Language:** C
+### [Lane-Keeper-Obstacle-Avoidance-Car-AVR-Based](https://github.com/YoussefElzainy/Lane-Keeper-Obstacle-Avoidance-Car-AVR-Based)
+AVR-based autonomous car project featuring lane-keeping and obstacle avoidance using ultrasonic sensors and motor control.  
+**Language:** C | **Microcontroller:** ATmega32A | **Features:** Sensor fusion, Real-time control
 
-### [FIFO-First-In-First-Out-memory-block-using-Verilog](https://github.com/your-username/FIFO-First-In-First-Out-memory-block-using-Verilog)
+### [FIFO-First-In-First-Out-memory-block-using-Verilog](https://github.com/YoussefElzainy/FIFO-First-In-First-Out-memory-block-using-Verilog)
 Verilog implementation of a FIFO memory block. Demonstrates efficient hardware-level memory management suitable for embedded systems.  
-**Language:** Verilog
+**Language:** Verilog | **Focus:** Digital design, Memory architecture
 
 ---
 
-### 📫 Connect with me
-- [GitHub](https://github.com/YoussefElzainy)
-- [LinkedIn](https://linkedin.com/in/youssefhossameldeen)
+## 🎯 Areas of Expertise
+- ✅ Embedded Systems Development
+- ✅ Microcontroller Programming & Firmware
+- ✅ Digital Logic & Circuit Design
+- ✅ Robotics & Autonomous Systems
+- ✅ Sensor Integration & Data Acquisition
+- ✅ Hardware-Software Co-design
+
+---
+
+## 📚 Education & Certifications
+- **Field:** Embedded Systems & Electronics Engineering
+- **Focus Areas:** Microcontroller programming, Digital design, Robotics
+
+---
+
+## 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-YoussefElzainy-black?logo=github)](https://github.com/YoussefElzainy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Elzainy-blue?logo=linkedin)](https://linkedin.com/in/youssefhossameldeen)
+
+---
+
+## 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=YoussefElzainy&color=brightgreen)
