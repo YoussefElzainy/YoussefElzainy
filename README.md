@@ -92,3 +92,5 @@ Verilog implementation of a FIFO memory block. Demonstrates efficient hardware-l
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YoussefElzainy&color=brightgreen" />
 </p>
+
+![github-user-contribution (1)](https://github.com/user-attachments/assets/c739d53e-bd15-479c-ad82-fc8f1d44bc51)
