@@ -9,13 +9,7 @@ I'm an **Embedded Systems & Electronics Engineer** with a strong foundation in A
 ### **Programming Languages**
 - **Microcontroller Programming:** C, C++
 - **Hardware Description:** Verilog, SystemVerilog
-- **General Purpose:** Java, Python
-- **Web & Other:** HTML, CSS, JavaScript
-
-### **Microcontroller & Platforms**
-- ATmega32A, ATmega328P
-- ARM-based controllers
-- Arduino ecosystem
+- **General Purpose:** Java
 
 ### **Hardware & Design**
 - **Digital Logic Design** - Combinational and sequential logic circuits
@@ -28,8 +22,7 @@ I'm an **Embedded Systems & Electronics Engineer** with a strong foundation in A
 ### **Tools & Software**
 - **Simulation & Design:** Proteus, Multisim, ModelSim
 - **IDEs:** CodeVision AVR, Atmel Studio, VS Code
-- **Hardware Programming:** AVR Programmer, AVRDUDE
-- **Version Control:** Git, GitHub
+- **Hardware Programming:** AVR Programmer
 - **CAD & Schematics:** Circuit design software
 
 ---
@@ -62,21 +55,7 @@ Verilog implementation of a FIFO memory block. Demonstrates efficient hardware-l
 
 ---
 
-## 🎯 Areas of Expertise
-- ✅ Embedded Systems Development
-- ✅ Microcontroller Programming & Firmware
-- ✅ Digital Logic & Circuit Design
-- ✅ Robotics & Autonomous Systems
-- ✅ Sensor Integration & Data Acquisition
-- ✅ Hardware-Software Co-design
 
----
-
-## 📚 Education & Certifications
-- **Field:** Embedded Systems & Electronics Engineering
-- **Focus Areas:** Microcontroller programming, Digital design, Robotics
-
----
 
 ## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-YoussefElzainy-black?logo=github)](https://github.com/YoussefElzainy)
