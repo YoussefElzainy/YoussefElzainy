@@ -1,55 +1,67 @@
-# Welcome to My Portfolio
+# 👋 Hi, I'm Youssef Elzainy
 
-## Overview
-This repository showcases my skills and projects. Below are some interactive visuals and professional formatting that highlight my work.
-
-### Animated Typing SVG
-<svg width="100%" height="20" viewBox="0 0 100 20" xmlns="http://www.w3.org/2000/svg">
-  <text id="text" x="0" y="15" font-size="15" fill="black">Hello! I'm Youssef Elzainy.</text>
-  <script>
-    const textEl = document.getElementById('text');
-    let text = textEl.textContent;
-    textEl.textContent = '';
-    let i = 0;
-    function type() {
-      if (i < text.length) {
-        textEl.textContent += text.charAt(i);
-        i++;
-        setTimeout(type, 100);
-      }
-    }
-    type();
-  </script>
-</svg>
-
-### Skills Badges
-![JavaScript](https://img.shields.io/badge/JavaScript-30A0FF?style=flat&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-
-### Tech Stack
-| Technology | Description |
-|------------|-------------|
-| JavaScript | Used for interactive web development |
-| Python     | Back-end development and scripting |
-| HTML5      | Structure of web pages |
-| CSS3       | Styling for web pages |
-
-### Collapsible Sections
-<details>
-<summary>Click to expand!</summary>
-<p>This is a collapsible section where you can add additional content.</p>
-</details>
-
-### GitHub Stats
-![YoussefElzainy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefElzainy&show_icons=true&hide_title=true)
-
-### Professional Formatting
-- Clean code practices
-- Consistent formatting
-- Designed for readability
-
-## Contact
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/). 
+I'm an **Embedded Systems & Electronics Engineer** with a strong foundation in AVR microcontrollers, digital logic design, and Verilog HDL. I'm passionate about building innovative hardware-software solutions, from autonomous systems to smart embedded devices that solve real-world problems.
 
 ---
 
-*This README is designed to be informative and engaging for visitors looking to learn more about my projects and skills.*
+## 💻 Skills & Technologies
+
+### **Programming Languages**
+- **Microcontroller Programming:** C, C++
+- **Hardware Description:** Verilog, SystemVerilog
+- **General Purpose:** Java
+
+### **Hardware & Design**
+- **Digital Logic Design** - Combinational and sequential logic circuits
+- **Memory Systems** - FIFO, RAM, ROM implementations
+- **Sensor Integration** - ADC, timers, interrupts
+- **Motor Control & Robotics** - DC motors, servo control, PWM
+- **Communication Protocols** - UART, SPI, I2C
+- **Circuit Design & Analysis**
+
+### **Tools & Software**
+- **Simulation & Design:** Proteus, Multisim, ModelSim
+- **IDEs:** CodeVision AVR, Atmel Studio, VS Code
+- **Hardware Programming:** AVR Programmer
+- **CAD & Schematics:** Circuit design software
+
+---
+
+## 🚀 Featured Projects
+
+### [Simple-Calculator-AVR](https://github.com/YoussefElzainy/simple-calculator-AVR)
+AVR-based Calculator using LCD and Keypad. Implements basic arithmetic operations with a clean hardware interface.  
+**Language:** C | **Microcontroller:** ATmega32A
+
+### [Smart-Lock-System-AVR-based-embedded-project](https://github.com/YoussefElzainy/Smart-Lock-System-AVR-based-embedded-project)
+Developed a secure smart lock system with AVR microcontroller. Users enter passwords via a keypad and receive real-time feedback on an LCD display.  
+**Language:** C | **Features:** Password authentication, Access control
+
+### [Traffic-Light-using-ICs](https://github.com/YoussefElzainy/traffic-light-using-ICs)
+Simple traffic light system using combinational and sequential logic. Mimics real-world traffic timing with basic hardware components — no microcontrollers involved.  
+**Language:** C | **Focus:** Digital logic design
+
+### [AVR-Traffic-Light](https://github.com/YoussefElzainy/AVR-Traffic-light)
+Traffic light simulation using ATmega32A. Controls LEDs in a realistic sequence with countdown display. Includes schematics, source code, and HEX file for easy replication.  
+**Language:** C | **Microcontroller:** ATmega32A
+
+### [Lane-Keeper-Obstacle-Avoidance-Car-AVR-Based](https://github.com/YoussefElzainy/Lane-Keeper-Obstacle-Avoidance-Car-AVR-Based)
+AVR-based autonomous car project featuring lane-keeping and obstacle avoidance using ultrasonic sensors and motor control.  
+**Language:** C | **Microcontroller:** ATmega32A | **Features:** Sensor fusion, Real-time control
+
+### [FIFO-First-In-First-Out-memory-block-using-Verilog](https://github.com/YoussefElzainy/FIFO-First-In-First-Out-memory-block-using-Verilog)
+Verilog implementation of a FIFO memory block. Demonstrates efficient hardware-level memory management suitable for embedded systems.  
+**Language:** Verilog | **Focus:** Digital design, Memory architecture
+
+---
+
+
+
+## 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-YoussefElzainy-black?logo=github)](https://github.com/YoussefElzainy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Elzainy-blue?logo=linkedin)](https://linkedin.com/in/youssefhossameldeen)
+
+---
+
+## 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=YoussefElzainy&color=brightgreen)
