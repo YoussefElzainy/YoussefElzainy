@@ -84,6 +84,12 @@ Verilog implementation of a FIFO memory block. Demonstrates efficient hardware-l
   <a href="https://linkedin.com/in/youssefhossameldeen">
     <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Elzainy-blue?logo=linkedin" />
   </a>
+  <a href="mailto:youssefhoss79@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-youssefhoss79%40gmail.com-red?logo=gmail" />
+  </a>
+  <a href="https://github.com/YoussefElzainy/YoussefElzainy/blob/main/youssef%20elzainy%20MAIN%20CV.pdf">
+    <img src="https://img.shields.io/badge/CV-Download-orange?logo=adobeacrobat" />
+  </a>
 </p>
 
 ---
