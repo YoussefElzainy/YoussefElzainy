@@ -4,7 +4,7 @@
   <b>Digital IC Design Enthusiast | Electrical Communication & Electronics Engineering Student</b><br>
   RTL Design • Verilog/SystemVerilog • Verification • FPGA • Digital Design
 </p>
----
+
 
 ## About Me
 
