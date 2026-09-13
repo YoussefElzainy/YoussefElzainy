@@ -1,8 +1,12 @@
 # Hi, I'm Youssef Elzainy
 
 <p align="center">
-  <b>Digital IC Design Engineer | Electrical Communication & Electronics Engineering Student</b><br>
+  <b>Digital IC Design Enthusiast | Electrical Communication & Electronics Engineering Student</b><br>
   RTL Design • Verilog/SystemVerilog • Verification • FPGA • Digital Design
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YoussefElzainy/YoussefElzainy/main/snake.svg" alt="GitHub contribution snake" />
 </p>
 
 ---
@@ -22,7 +26,7 @@ My current focus is becoming strong in **Verilog/SystemVerilog, FSM design, digi
 - **RTL Design** — Verilog, SystemVerilog, synthesizable RTL
 - **Digital Design** — combinational/sequential logic, FSMs, datapaths, control logic
 - **Verification** — testbenches, simulation, assertions, waveform analysis
-- **Memory & Data Path Design** — FIFO, RAM, register files, routing logic
+- **Memory & Data Path Design** — FIFO, RAM, register files
 - **FPGA Design** — Xilinx FPGA, Vivado, synthesis and implementation
 - **Timing** — setup/hold concepts, STA fundamentals, timing constraints
 - **Communication Interfaces** — UART, SPI, I2C
@@ -43,15 +47,7 @@ My current focus is becoming strong in **Verilog/SystemVerilog, FSM design, digi
 
 ---
 
-## Featured Digital Design Projects
-
-### [NTI Digital IC Design Portfolio](https://github.com/YoussefElzainy/NTI---Digital-IC-Design---Portfolio)
-
-A growing portfolio documenting my work in **Digital IC Design**, including RTL design exercises, FSMs, memory structures, datapaths, communication-related designs, and verification work.
-
-**Focus:** Verilog HDL • RTL Design • FSMs • Digital Architecture • Verification
-
----
+## Featured Digital IC Design Projects
 
 ### [Spartan-6 DSP48A1](https://github.com/YoussefElzainy/Spartan6---DSP48A1-)
 
@@ -61,21 +57,19 @@ A Verilog implementation of the Xilinx **DSP48A1** slice, including configurable
 
 ---
 
+### [SPI Slave with Single-Port RAM](https://github.com/YoussefElzainy/SPI-Slave-with-Single-Port-RAM)
+
+A digital system combining an **SPI Slave** interface with a **single-port RAM**, focusing on serial communication, memory control, FSM-based design, and RTL verification.
+
+**Focus:** RTL Design • SPI • RAM • FSM • Verification
+
+---
+
 ### [FIFO Memory Block](https://github.com/YoussefElzainy/FIFO-First-In-First-Out-memory-block-using-Verilog)
 
 A synthesizable Verilog FIFO design demonstrating memory management, read/write control, status flags, and RTL-based sequential logic.
 
 **Focus:** RTL Design • Memory Architecture • Sequential Logic
-
----
-
-### Router & Packet-Based Digital System
-
-An ongoing RTL project focused on designing a **packet-routing system** with multiple ports, arbitration, buffering, and protocol adapters for different communication interfaces.
-
-The project is being developed with an emphasis on modular RTL architecture, control logic, and verification.
-
-**Focus:** RTL Architecture • Packet Routing • Round-Robin Arbitration • FIFO • UART/SPI/I2C Interfaces
 
 ---
 
