@@ -4,11 +4,6 @@
   <b>Digital IC Design Enthusiast | Electrical Communication & Electronics Engineering Student</b><br>
   RTL Design • Verilog/SystemVerilog • Verification • FPGA • Digital Design
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YoussefElzainy/YoussefElzainy/main/snake.svg" alt="GitHub contribution snake" />
-</p>
-
 ---
 
 ## About Me
