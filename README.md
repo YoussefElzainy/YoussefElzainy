@@ -1,86 +1,115 @@
-# 👋 Hi, I'm Youssef Elzainy
+# Hi, I'm Youssef Elzainy
 
 <p align="center">
-  <b>Embedded Systems & Electronics Engineer</b><br>
-  AVR Microcontrollers • Digital Logic Design • Verilog HDL
+  <b>Digital IC Design Engineer | Electrical Communication & Electronics Engineering Student</b><br>
+  RTL Design • Verilog/SystemVerilog • Verification • FPGA • Digital Design
 </p>
 
 ---
 
-I'm an **Embedded Systems & Electronics Engineer** with a strong foundation in AVR microcontrollers, digital logic design, and Verilog HDL. I'm passionate about building innovative hardware-software solutions, from autonomous systems to smart embedded devices that solve real-world problems.
+## About Me
+
+I'm an Electrical Communication & Electronics Engineering student focused on **Digital IC Design** and the digital hardware design flow.
+
+I'm building my foundation across **RTL design, functional verification, synthesis, timing analysis, and FPGA implementation**, with a strong interest in developing reliable and reusable hardware designs.
+
+My current focus is becoming strong in **Verilog/SystemVerilog, FSM design, digital architecture, memory systems, communication protocols, verification, and timing concepts** while continuously developing practical RTL projects.
 
 ---
 
-## 💻 Skills & Technologies
+## Digital IC Design Focus
 
-### 🧠 Programming Languages
+- **RTL Design** — Verilog, SystemVerilog, synthesizable RTL
+- **Digital Design** — combinational/sequential logic, FSMs, datapaths, control logic
+- **Verification** — testbenches, simulation, assertions, waveform analysis
+- **Memory & Data Path Design** — FIFO, RAM, register files, routing logic
+- **FPGA Design** — Xilinx FPGA, Vivado, synthesis and implementation
+- **Timing** — setup/hold concepts, STA fundamentals, timing constraints
+- **Communication Interfaces** — UART, SPI, I2C
+- **Digital Architecture** — processor/control-unit concepts and hardware interconnects
+
+---
+
+## Languages & Tools
+
 | Category | Technologies |
 |---|---|
-| **Microcontroller Programming** | C, C++ |
-| **Hardware Description** | Verilog, SystemVerilog |
-| **General Purpose** | Java |
-
-### 🔧 Hardware & Design
-- **Digital Logic Design** — Combinational and sequential logic circuits  
-- **Memory Systems** — FIFO, RAM, ROM implementations  
-- **Sensor Integration** — ADC, timers, interrupts  
-- **Motor Control & Robotics** — DC motors, servo control, PWM  
-- **Communication Protocols** — UART, SPI, I2C  
-- **Circuit Design & Analysis**
-
-### 🛠 Tools & Software
-| Type | Tools |
-|---|---|
-| **Simulation & Design** | Proteus, Multisim, ModelSim |
-| **IDEs** | CodeVision AVR, Atmel Studio, VS Code |
-| **Hardware Programming** | AVR Programmer |
-| **CAD & Schematics** | Circuit design software |
+| **HDLs** | Verilog, SystemVerilog |
+| **Programming** | C, C++, Java |
+| **Simulation** | QuestaSim / ModelSim, Proteus |
+| **FPGA** | Xilinx Vivado, Spartan-6 |
+| **Development** | VS Code |
+| **Version Control** | Git, GitHub |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Digital Design Projects
 
-### 🔢 [Simple-Calculator-AVR](https://github.com/YoussefElzainy/simple-calculator-AVR)
-AVR-based Calculator using LCD and Keypad. Implements basic arithmetic operations with a clean hardware interface.  
-**Language:** C | **Microcontroller:** ATmega32A
+### [NTI Digital IC Design Portfolio](https://github.com/YoussefElzainy/NTI---Digital-IC-Design---Portfolio)
 
----
+A growing portfolio documenting my work in **Digital IC Design**, including RTL design exercises, FSMs, memory structures, datapaths, communication-related designs, and verification work.
 
-### 🔐 [Smart-Lock-System-AVR-based-embedded-project](https://github.com/YoussefElzainy/Smart-Lock-System-AVR-based-embedded-project)
-Developed a secure smart lock system with AVR microcontroller. Users enter passwords via a keypad and receive real-time feedback on an LCD display.  
-**Language:** C | **Features:** Password authentication, Access control
+**Focus:** Verilog HDL • RTL Design • FSMs • Digital Architecture • Verification
 
 ---
 
-### 🚦 [Traffic-Light-using-ICs](https://github.com/YoussefElzainy/traffic-light-using-ICs)
-Simple traffic light system using combinational and sequential logic. Mimics real-world traffic timing with basic hardware components — no microcontrollers involved.  
-**Language:** C | **Focus:** Digital logic design
+### [Spartan-6 DSP48A1](https://github.com/YoussefElzainy/Spartan6---DSP48A1-)
+
+A Verilog implementation of the Xilinx **DSP48A1** slice, including configurable pipeline stages, testbench development, simulation, and FPGA-oriented constraints.
+
+**Focus:** RTL Design • FPGA Architecture • Pipelining • Verification • Vivado
 
 ---
 
-### 🚦 [AVR-Traffic-Light](https://github.com/YoussefElzainy/AVR-Traffic-light)
-Traffic light simulation using ATmega32A. Controls LEDs in a realistic sequence with countdown display. Includes schematics, source code, and HEX file for easy replication.  
-**Language:** C | **Microcontroller:** ATmega32A
+### [FIFO Memory Block](https://github.com/YoussefElzainy/FIFO-First-In-First-Out-memory-block-using-Verilog)
+
+A synthesizable Verilog FIFO design demonstrating memory management, read/write control, status flags, and RTL-based sequential logic.
+
+**Focus:** RTL Design • Memory Architecture • Sequential Logic
 
 ---
 
-### 🚗 [Lane-Keeper-Obstacle-Avoidance-Car-AVR-Based](https://github.com/YoussefElzainy/Lane-Keeper-Obstacle-Avoidance-Car-AVR-Based)
-AVR-based autonomous car project featuring lane-keeping and obstacle avoidance using ultrasonic sensors and motor control.  
-**Language:** C | **Microcontroller:** ATmega32A | **Features:** Sensor fusion, Real-time control
+### Router & Packet-Based Digital System
+
+An ongoing RTL project focused on designing a **packet-routing system** with multiple ports, arbitration, buffering, and protocol adapters for different communication interfaces.
+
+The project is being developed with an emphasis on modular RTL architecture, control logic, and verification.
+
+**Focus:** RTL Architecture • Packet Routing • Round-Robin Arbitration • FIFO • UART/SPI/I2C Interfaces
 
 ---
 
-### 💾 [FIFO-First-In-First-Out-memory-block-using-Verilog](https://github.com/YoussefElzainy/FIFO-First-In-First-Out-memory-block-using-Verilog)
-Verilog implementation of a FIFO memory block. Demonstrates efficient hardware-level memory management suitable for embedded systems.  
-**Language:** Verilog | **Focus:** Digital design, Memory architecture
+## Embedded Systems Background
+
+Before focusing primarily on Digital IC Design, I developed a strong embedded-systems foundation through projects using **ATmega32A, Embedded C, timers, interrupts, PWM, ADC, UART, LCDs, keypads, and sensors**.
+
+Some of my embedded projects include:
+
+- [Smart Lock System](https://github.com/YoussefElzainy/Smart-Lock-System-AVR-based-embedded-project)
+- [AVR Traffic Light](https://github.com/YoussefElzainy/AVR-Traffic-light)
+- [Lane Keeper & Obstacle Avoidance Car](https://github.com/YoussefElzainy/Lane-Keeper-Obstacle-Avoidance-Car-AVR-Based)
+- [Simple Calculator](https://github.com/YoussefElzainy/simple-calculator-AVR)
+
+This background helps me understand how low-level hardware interfaces connect with larger digital systems.
 
 ---
 
-### 🔧 [Spartan6---DSP48A1](https://github.com/YoussefElzainy/Spartan6---DSP48A1-)
-Verilog implementation of the DSP48A1 slice for Xilinx FPGAs with configurable pipeline stages, testbench, and simulation scripts. Includes Vivado constraints, QuestaSim testbenches, and example waveforms for verification.
-**Language:** Verilog | **FPGA:** Spartan-6 | **Focus:** DSP architecture, Digital signal processing
+## Currently Learning
 
-## 📫 Connect with Me
+- Advanced RTL Design
+- SystemVerilog
+- Functional Verification
+- Static Timing Analysis (STA)
+- SDC Timing Constraints
+- Digital IC Design Flow
+- Low-Power Design Concepts
+- DFT Fundamentals
+- Advanced FPGA Design
+
+---
+
+## Connect With Me
+
 <p>
   <a href="https://github.com/YoussefElzainy">
     <img src="https://img.shields.io/badge/GitHub-YoussefElzainy-black?logo=github" />
@@ -98,9 +127,6 @@ Verilog implementation of the DSP48A1 slice for Xilinx FPGAs with configurable p
 
 ---
 
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YoussefElzainy&color=brightgreen" />
+  <i>Building digital hardware, one RTL block at a time.</i>
 </p>
-
-![github-user-contribution (1)](https://github.com/user-attachments/assets/c739d53e-bd15-479c-ad82-fc8f1d44bc51)
